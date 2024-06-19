@@ -40,7 +40,7 @@ Kaloriku is a comprehensive health management app that allows users to track the
 - **Android Studio**: Integrated development environment for Android.
 - **Kotlin**: Programming language for Android development.
 
-## Contact
+## Group Members
 * Andre Dzikry Surya Atmojo 
 * Ahmad Jibril Abdul Aziz 
 * Ria Kristi 
