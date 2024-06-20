@@ -24,6 +24,8 @@ Kaloriku is a comprehensive health management app that allows users to track the
 - **Cloud Sync**: Seamlessly sync your data across multiple devices.
 - **User-Friendly Interface**: Enjoy a smooth and intuitive mobile experience.
 
+## Technology Stack
+
 ### Cloud Computing
 
 - **Google Cloud Platform**: Hosting and scalable cloud services.
@@ -39,6 +41,24 @@ Kaloriku is a comprehensive health management app that allows users to track the
 
 - **Android Studio**: Integrated development environment for Android.
 - **Kotlin**: Programming language for Android development.
+
+## Documentation
+
+### Machine Learning
+
+### Cloud Computing
+
+- We use two deployed endpoints to run this application. The first endpoint is used for user functions and the second endpoint is used for food recommendation model usage. A service account with cloud storage and firestore permissions is required to be used for user storage and user image assets.
+- We use the following technologies.
+1. Python
+2. Flask
+3. Numpy, Keras. TensorFlow, Pandas, (requirement.txt)
+4. NodeJS
+5. ExpressJS
+6. 
+### Mobile Development
+
+
 
 ## Group Members
 * Andre Dzikry Surya Atmojo 
