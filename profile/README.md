@@ -30,7 +30,7 @@ Kaloriku is a comprehensive health management app that allows users to track the
 
 - **Google Cloud Platform**: Hosting and scalable cloud services.
 - **Node.js**: Backend server and API development.
-- **Python**: Model and API development.
+- **Python**: Develop and deploy Machine Learning models.
 
 ### Machine Learning
 
