@@ -9,6 +9,7 @@ Welcome to **Kaloriku**, an innovative project designed to revolutionize persona
 - [Overview](#overview)
 - [Features](#features)
 - [Technology Stack](#technology-stack)
+- [Documentation](#documentation)
 - [Group Members](#group-members)
 
 ## Overview
