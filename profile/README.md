@@ -60,14 +60,14 @@ Kaloriku is a comprehensive health management app that allows users to track the
 #### How To Run 
 1. Backend Server
 - Clone repository
-- Install Node Package Manager ["npm install"]
+- Install Node Package Manager and Dependencies ["npm install"]
 - Create service account with firestore and cloud storage permission
 - Put service-account.json into server folder
 - Run the backend server ["npm run start"]
    
 2. Models API
 - Clone repository
-- Install Node Package Manager ["pip install -r requirements.txt"]
+- Install requirements ["pip install -r requirements.txt"]
 - Run the Models API ["python main.py"]
 
 ### Mobile Development
