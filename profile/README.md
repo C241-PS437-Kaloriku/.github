@@ -48,6 +48,20 @@ Kaloriku is a comprehensive health management app that allows users to track the
 
 ### Machine Learning
 
+#### Food Nutrition Detection
+
+This project develops a machine learning model capable of identifying and analyzing the nutritional content of foods from images. The model uses advanced neural networks to estimate macronutrient values (proteins, fats, carbohydrates) and caloric content, assisting users in dietary planning and health management.
+
+#### Features
+- *Nutrient Estimation*: Predict macronutrient values from food images.
+- *Calorie Calculation*: Estimate the total caloric content of meals.
+- *User Input Handling*: Allow users to input specific dietary requirements or preferences.
+
+#### Model Details
+- *Architecture*: Utilizes a convolutional neural network (CNN) based on the MobileNetV2 architecture for efficient image processing.
+- *Training Data*: Trained on a comprehensive dataset of food images labeled with nutritional information.
+- *Accuracy Metrics*: Provides metrics on model accuracy, precision, and recall.
+
 ### Cloud Computing
 
 - We use two deployed endpoints to run this application. The first endpoint is used for user functions and the second endpoint is used for food recommendation model usage. A service account with cloud storage and firestore permissions is required to be used for user storage and user image assets.
