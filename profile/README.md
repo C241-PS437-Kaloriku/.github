@@ -1,8 +1,10 @@
 # Kaloriku
 
-![Kaloriku Logo](/profile/logo.png)
+![Kaloriku Logo](/profile/asset/logo.png)
 
 Welcome to **Kaloriku**, an innovative project designed to revolutionize personal health management through the integration of cloud computing, machine learning, and mobile development. Our mission is to help users monitor and manage their calorie intake seamlessly and intelligently.
+
+![Kaloriku Preview](/profile/asset/preview.png)
 
 ## Table of Contents
 
