@@ -89,6 +89,43 @@ This project develops a machine learning model capable of identifying and analyz
 
 ### Mobile Development
 
+### Features
+
+- Provides food recommendations based on user input
+- Stores user preferences using Datastore
+- Uses TensorFlow Lite for image recognition
+- Integrates with CameraX for capturing images
+- Uses Retrofit for network communication
+
+### Requirements
+
+- Android Studio
+- Kotlin
+- Minimum SDK: 24
+- Target SDK: 34
+- Internet connection
+
+### Project Setup
+
+Add your base URLs in the `buildConfigField` in the `build.gradle.kts` file:
+```
+buildConfigField("String", "BASE_URL", "\"YOUR_URL\"")
+buildConfigField("String","PREDICT_BASE_URL","\"YOUR_URL\"")
+```
+### Installation
+1. Clone this repository:
+   ```
+   git clone https://github.com/C241-PS437-Kaloriku/Mobile-Development.git
+   ```
+2. Open the project in Android Studio.
+
+Or you can download our app [here](https://drive.google.com/drive/folders/1iFrVO5cis-UixYz2z4Mv7Sm-rhe8zkWc)
+
+### Project Structure
+- `app/src/main/java/com/dicoding/kaloriku/` - Application source code
+- `app/src/main/res/`  - Application resources
+
+
 
 
 ## Group Members
