@@ -14,6 +14,8 @@ Welcome to **Kaloriku**, an innovative project designed to revolutionize persona
 
 ## Overview
 
+![alt Kaloriku](https://github.com/C241-PS437-Kaloriku/Mobile-Development/blob/main/Kaloriku.jpeg?raw=true)
+
 Kaloriku is a comprehensive health management app that allows users to track their calorie intake and nutritional information effortlessly. By leveraging the power of cloud computing and machine learning, Kaloriku provides personalized dietary recommendations and insightful analytics to promote healthier eating habits.
 
 ## Features
